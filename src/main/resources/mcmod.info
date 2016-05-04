@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "AlchemyMod",
+        "name": "Alchemy Mod",
+        "description": "A mod that adds alchemy things.",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["Zach Deibert"],
+        "credits": "Zach Deibert",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
